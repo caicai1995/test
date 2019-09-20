@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "name": "1哈哈哈",
+            "sourceNode": "2北京",
+            "destNode": "3",
+            "route": "555啦啦啦-啦啦啦",
+            "fiberType": 1,
+            "physicalSpan": 555,
+            "logicSpan": 333,
+            "length": 5000000,
+            "waveId": "0",
+            "osnrA": 100000
+        },
+        {
+            "name": "12223：2哈哈哈",
+            "sourceNode": "海淀",
+            "destNode": "西土城",
+            "route": "1-三2-35-非方法",
+            "fiberType": 331,
+            "physicalSpan": 15,
+            "logicSpan": 2223,
+            "length": 5555,
+            "waveId": "22",
+            "osnrA": 50
+        }
+    ]
+}
