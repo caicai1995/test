@@ -1,7 +1,6 @@
 {
-    "total":20,
-    "status": "success",
-    "data": [
+	"total":20,
+	"data": [
         {
             "name": "1哈哈哈",
             "sourceNode": "2北京",
