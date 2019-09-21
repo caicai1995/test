@@ -1,7 +1,15 @@
 {
     "aData":[
         {
-            "name":"菜菜",
+            "name":"haha",
+            "stu_number":20190001,
+            "age":18,
+            "sex":2,
+            "birthday":"2001年12月20日",
+            "class":1
+        },
+        {
+            "name":"嘀嘀嘀",
             "stu_number":20190001,
             "age":18,
             "sex":2,
@@ -17,7 +25,7 @@
             "class":1
         },
         {
-            "name":"菜菜",
+            "name":"半包",
             "stu_number":20190001,
             "age":18,
             "sex":2,
@@ -25,15 +33,7 @@
             "class":1
         },
         {
-            "name":"菜菜",
-            "stu_number":20190001,
-            "age":18,
-            "sex":2,
-            "birthday":"2001年12月20日",
-            "class":1
-        },
-        {
-            "name":"菜菜",
+            "name":"223额",
             "stu_number":20190001,
             "age":18,
             "sex":2,
