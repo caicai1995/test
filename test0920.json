@@ -1,6 +1,6 @@
 {
-    "totalCount": 1328,
-    "items": [
+    status:"success",
+    "data": [
         {
             "AMPLITUDE":0.9309,
             "PREVCLOSINGPRICE":7.52,
@@ -13,7 +13,7 @@
             "EPS":0.9217,
             "LOWESTPRICE":7.49,
             "OPENINGPRICE":7.51,
-            "SECUABBR":"浦发银行",
+            "name":"浦发银行",
             "ALISTEDSHARE":14922777132,
             "ID":3131258,
             "WCOSTAVG":8.7968,
@@ -1737,4 +1737,4 @@
             "ADJUSTCLOSINGPRICE":58.9988,
             "PB":3.4501
         }
-    ]}
+    ],"totalCount": 1328,}
