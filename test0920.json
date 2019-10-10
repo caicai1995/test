@@ -1,5 +1,5 @@
 {
-    status:"success",
+    "status":"success",
     "data": [
         {
             "AMPLITUDE":0.9309,
@@ -1737,4 +1737,5 @@
             "ADJUSTCLOSINGPRICE":58.9988,
             "PB":3.4501
         }
-    ],"totalCount": 1328,}
+    ],
+    "totalCount": 1328}
